@@ -1,0 +1,140 @@
+---
+title: "midterm"
+Author: Your Name
+output: html_document
+date: '`r Sys.Date()`'
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+```
+
+# Data
+
+```{r load-data, message = FALSE}
+drugs <- read_csv("data/adult.income.csv")
+```
+
+# Task 1.1
+
+```{r}
+
+
+```
+
+# Task 1.2
+
+```{r}
+
+
+```
+
+
+# Task 2.1
+
+```{r}
+
+
+
+```
+
+Is there any relation between education level and number of weekly working hours?
+
+# Task 2.2
+
+```{r}
+
+
+
+```
+
+
+# Task 3.1
+
+```{r}
+
+
+
+```
+What insights can you draw from this plot?
+
+
+
+# Task 3.2
+
+```{r}
+
+
+
+```
+What insights can you draw from these facetted plots?
+
+
+
+# Task 3.3
+
+```{r}
+
+
+
+```
+What does the chart reveal about income distribution across education levels?
+
+
+
+# Task 4.1
+
+```{r}
+
+
+
+```
+
+# Task 5.1
+
+```{r}
+
+
+
+```
+
+# Task 5.2
+
+```{r}
+
+
+
+```
+
+# Task 5.3
+
+```{r}
+
+
+
+```
+
+# Task 5.4
+
+```{r}
+
+
+
+```
+
+# Task 5.5
+
+```{r}
+
+
+
+```
+What insights can you draw from these facetted plots?
+
